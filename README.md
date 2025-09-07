@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/msambare/fer2013
 > Get the emotion-specific emotion detection models by training the photos of the members that fit the project-defined criteria of the specific emotion
 
 
-## Second Model for Detecting How Strongly Emotions Are Expressed
+## Expressiveness Model: Detecting How Strongly Emotions Are Expressed
 
 *Notebook:* `개별모델_유형구분_전시회용.ipynb`  
 
