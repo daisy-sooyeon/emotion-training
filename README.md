@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 *Notebooks:* `모델1_happy.ipynb`, `모델2_sad.ipynb`, `모델3_angry.ipynb`  
 
-> Get the emotion-specific emotion detection models by training the photos of the members that fit the project-defined criteria of the specific emotion
+> Get the emotion-specific emotion detection models by training the photos of the members that meet the project-defined criteria for each emotion
 
 
 ## Expressiveness Model: Detecting How Strongly Emotions Are Expressed
